@@ -233,7 +233,7 @@ class Line(object):
 
     def __repr__(self):
         """
-        What comes in:
+        What lomes in:
           -- self
         What goes out: Returns a string representation of this Line,
         in the form:
